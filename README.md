@@ -1,5 +1,5 @@
 # Python
-Algorithms and Data Structure 
+Algorithms and Data Structures
 
 Math for Data Science + Fundamental Data Science
 
